@@ -9,3 +9,6 @@ Project for getting to know Git with support software
 - PyCharm 2023.1.2
 - Python 3.11
 - Windows 10 Home 
+
+## External Platforms
+[GitHub](https://github.com/) - repository hosting 
