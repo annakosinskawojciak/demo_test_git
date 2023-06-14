@@ -8,4 +8,4 @@ Project for getting to know Git with support software
 - Git v 2.39.1.windows.1
 - PyCharm v 2023.1.2
 - Python v 3.7
-- Windows v Windows 10 Home 
+- Windows v 10 Home 
